@@ -1,0 +1,3 @@
+C:/AN 2 SEM 2/GRAFICA PE CALCULATOR/SolarSystem/cmake-build-debug/CMakeFiles/SolarSystem.dir
+C:/AN 2 SEM 2/GRAFICA PE CALCULATOR/SolarSystem/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/AN 2 SEM 2/GRAFICA PE CALCULATOR/SolarSystem/cmake-build-debug/CMakeFiles/rebuild_cache.dir
